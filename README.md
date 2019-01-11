@@ -1,11 +1,11 @@
-1.启动site项目
-n v6.11.5 (注意切换到老版本)
+# 1.启动site项目
+    n v6.11.5 (注意切换到老版本)
 
-2.切换node版本（async await新版支持）
-npm install -g n
-n stable
+# 2.切换node版本（async await新版支持）
+    npm install -g n
+    n stable
 
-3.安装puppeteer
+# 3.安装puppeteer
 ### 1. 修改全局变量，可以npm搜puppeteer
     vi ~/.bash_profile
     # 增加 
