@@ -15,7 +15,7 @@
     npm i puppeteer (确保 node是最新版本)
     #or "yarn add puppeteer" 
 ### 3. 安装chromium
-    [地址：](https://download-chromium.appspot.com/)
+    [地址：]<https://download-chromium.appspot.com/>
 ### 4. 切换example里面chromium地址
     executablePath: '/Applications/Chromium.app/Contents/MacOS/Chromium',
 ### 5. 因为page-monitor代码比较老需要修改包里面源码
